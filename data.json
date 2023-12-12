@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "phoneName": "Samsung Galaxy A24",
+    "releaseDate": "May 05 2023",
+    "company": "Samsung",
+    "body": {
+      "dimention": "6.38 x 3.06 x 0.33 in",
+      "weight": "195 g ",
+      "build": "Glass front, plastic frame, plastic back"
+    },
+    "display": {
+      "type": "Super AMOLED, 90Hz",
+      "size": "6.5 inches",
+      "resolution": "1080 x 2340 pixels"
+    },
+    "platform": {
+      "os": "Android 13",
+      "chipset": "Mediatek Helio G99 (6nm)",
+      "cpu": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G57 MC2"
+    },
+    "memory": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",
+    "camera": {
+      "cam1": "50 MP, f/1.8, (wide), PDAF, OIS",
+      "cam2": "5 MP, f/2.2, 123˚ (ultrawide), 1/5\", 1.12µm ",
+      "cam3": "2 MP, f/2.4, (macro)",
+      "flash": "LED flash, panorama, HDR",
+      "video": "1080p@30fps"
+    },
+    "selfieCamera": {
+      "cam": "13 MP, f/2.2, (wide)",
+      "video": "1080p@30fps"
+    },
+    "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "bluetooth": "5.3, A2DP, LE",
+    "sensors": "Fingerprint (side-mounted), accelerometer, gyro, compass Virtual proximity sensing",
+    "battery": "Li-Po 5000 mAh, non-removable",
+    "price": "37999",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a24-4g-5.jpg",
+    "iamge2": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a24-4g-6.jpg",
+    "image3": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-a24-4g/lifestyle/-1024w2/gsmarena_012.jpg",
+    "image4": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-a24-4g/lifestyle/-1024w2/gsmarena_015.jpg",
+    "image5": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-a24-4g/lifestyle/-1024w2/gsmarena_024.jpg"
+  },
+  {
+    "id": 2,
+    "phoneName": "Samsung Galaxy A72",
+    "releaseDate": "March 26 2021",
+    "company": "Samsung",
+    "body": {
+      "dimention": "6.50 x 3.05 x 0.33 in",
+      "weight": "203 g",
+      "build": "Glass front (Gorilla Glass 5), plastic frame, plastic back"
+    },
+    "display": {
+      "type": "Super AMOLED, 90Hz",
+      "size": "6.7 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "platform": {
+      "os": "Android 11",
+      "chipset": "Qualcomm SM7125 Snapdragon 720G (8 nm)",
+      "cpu": "Octa-core (2x2.3 GHz Kryo 465 Gold & 6x1.8 GHz Kryo 465 Silver)",
+      "gpu": "Adreno 618"
+    },
+    "memory": "128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
+    "camera": {
+      "cam1": "64 MP, f/1.8, 26mm (wide), 1/1.7\", 0.8µm, PDAF, OIS",
+      "cam2": "8 MP, f/2.4, (telephoto), 1.0µm, PDAF, OIS, 3x optical zoom",
+      "cam3": "12 MP, f/2.2, 123˚ (ultrawide), 1.12µm",
+      "cam4": "5 MP, f/2.4, (macro)",
+      "flash": "LED flash, panorama, HDR",
+      "video": "4K@30fps, 1080p@30/60fps; gyro-EIS"
+    },
+    "selfieCamera": {
+      "cam": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8µm",
+      "video": "4K@30fps, 1080p@30fps"
+    },
+    "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "bluetooth": "5.0, A2DP, LE",
+    "sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass Virtual proximity sensing",
+    "battery": "Li-Ion 5000 mAh, non-removable",
+    "price": "50499",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a72-4g-10.jpg",
+    "iamge2": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a72-4g-11.jpg",
+    "image3": "https://fdn.gsmarena.com/imgroot/reviews/21/samsung-galaxy-a72/lifestyle/-1024w2/gsmarena_001.jpg",
+    "image4": "https://fdn.gsmarena.com/imgroot/reviews/21/samsung-galaxy-a72/lifestyle/-1024w2/gsmarena_012.jpg",
+    "image5": "https://fdn.gsmarena.com/imgroot/reviews/21/samsung-galaxy-a72/lifestyle/-1024w2/gsmarena_013.jpg"
+  },
+  {
+    "id": 3,
+    "phoneName": "Samsung Galaxy A54",
+    "releaseDate": "March 24 2023",
+    "company": "Samsung",
+    "body": {
+      "dimention": "6.23 x 3.02 x 0.32 in",
+      "weight": "202 g",
+      "build": "Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame"
+    },
+    "display": {
+      "type": "Super AMOLED, 120Hz, HDR10+, 1000 nits (HBM)",
+      "size": "6.4 inches",
+      "resolution": "1080 x 2340 pixels"
+    },
+    "platform": {
+      "os": "Android 13",
+      "chipset": "Exynos 1380 (5 nm)",
+      "cpu": "Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G68 MP5"
+    },
+    "memory": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 6GB RAM, 256GB 8GB RAM",
+    "camera": {
+      "cam1": "50 MP, f/1.8, (wide), 1/1.56\", 1.0µm, PDAF, OIS",
+      "cam2": "12 MP, f/2.2, 123˚ (ultrawide), 1.12µm",
+      "cam3": "5 MP, f/2.4, (macro)",
+      "flash": "LED flash, panorama, HDR",
+      "video": "4K@30fps, 1080p@30/60fps, 720p@480fps"
+    },
+    "selfieCamera": {
+      "cam": "32 MP, f/2.2, 26mm (wide), 1/2.8\", 0.8µm",
+      "video": "4K@30fps, 1080p@30/60fps"
+    },
+    "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "bluetooth": "5.3, A2DP, LE",
+    "sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass, barometer (USA only Virtual proximity sensing",
+    "battery": "Li-Po 5000 mAh, non-removable",
+    "price": "63199",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a54-5.jpg",
+    "iamge2": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a54-6.jpg",
+    "image3": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-a54/lifestyle/-1024w2/gsmarena_001.jpg",
+    "image4": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-a54/lifestyle/-1024w2/gsmarena_004.jpg",
+    "image5": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-a54/lifestyle/-1024w2/gsmarena_020.jpg"
+  },
+  {
+    "id": 4,
+    "phoneName": "Samsung Galaxy A33",
+    "releaseDate": "April 20 2022",
+    "company": "Samsung",
+    "body": {
+      "dimention": "6.29 x 2.91 x 0.32 in",
+      "weight": "186 g",
+      "build": "Glass front (Gorilla Glass 5), plastic frame, plastic back"
+    },
+    "display": {
+      "type": "Super AMOLED, 90Hz",
+      "size": "6.4 inches",
+      "resolution": "1080 x 2400 pixels"
+    },
+    "platform": {
+      "os": "Android 12",
+      "chipset": "Exynos 1280 (5 nm)",
+      "cpu": "Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55)",
+      "gpu": "Mali-G68"
+    },
+    "memory": "128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",
+    "camera": {
+      "cam1": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS",
+      "cam2": "8 MP, f/2.2, 123˚, (ultrawide), 1/4.0\", 1.12µm",
+      "cam3": "5 MP, f/2.4, (macro)",
+      "cam4": "2 MP, f/2.4, (depth)",
+      "flash": "LED flash, panorama, HDR",
+      "video": "4K@30fps, 1080p@30/60fps, 720p@480fps"
+    },
+    "selfieCamera": {
+      "cam": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm",
+      "video": "4K@30fps, 1080p@30fps"
+    },
+    "wlan": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "bluetooth": "5.1, A2DP, LE",
+    "sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass Virtual proximity sensing ",
+    "battery": "Li-Po 5000 mAh, non-removable",
+    "price": "40000",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a33-5g-1.jpg",
+    "iamge2": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a33-5g-3.jpg",
+    "image3": "https://fdn.gsmarena.com/imgroot/reviews/22/samsung-galaxy-a33-5g/lifestyle/-1024w2/gsmarena_002.jpg",
+    "image4": "https://fdn.gsmarena.com/imgroot/reviews/22/samsung-galaxy-a33-5g/lifestyle/-1024w2/gsmarena_006.jpg",
+    "image5": "https://fdn.gsmarena.com/imgroot/reviews/22/samsung-galaxy-a33-5g/lifestyle/-1024w2/gsmarena_023.jpg"
+  },
+  {
+    "id": 5,
+    "phoneName": "Samsung Galaxy S23 Ultra",
+    "releaseDate": "February 17 2023",
+    "company": "Samsung",
+    "body": {
+      "dimention": "6.43 x 3.07 x 0.35 in",
+      "weight": "234 g",
+      "build": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame"
+    },
+    "display": {
+      "type": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (HBM), 1750 nits (peak)",
+      "size": "6.8 inches",
+      "resolution": "1440 x 3088 pixels"
+    },
+    "platform": {
+      "os": "Android 13",
+      "chipset": "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)",
+      "cpu": "Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510)",
+      "gpu": "Adreno 740"
+    },
+    "memory": "256GB 8GB RAM, 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM",
+    "camera": {
+      "cam1": "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, Laser AF, OIS",
+      "cam2": "10 MP, f/4.9, 230mm (periscope telephoto), 1/3.52\", 1.12µm, Dual Pixel PDAF, OIS, 10x optical zoom",
+      "cam3": "10 MP, f/2.4, 70mm (telephoto), 1/3.52\", 1.12µm, Dual Pixel PDAF, OIS, 3x optical zoom",
+      "cam4": "12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, Dual Pixel PDAF, Super Steady video",
+      "flash": "LED flash, auto-HDR, panorama",
+      "video": "8K@24/30fps, 4K@30/60fps, 1080p@30/60/240fps, 1080p@960fps, HDR10+, stereo sound rec., gyro-EIS"
+    },
+    "selfieCamera": {
+      "cam": "12 MP, f/2.2, 26mm (wide), Dual Pixel PDAF",
+      "video": "4K@30/60fps, 1080p@30fps"
+    },
+    "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+    "bluetooth": "5.3, A2DP, LE",
+    "sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
+    "battery": "Li-Ion 5000 mAh, non-removable",
+    "price": "108000",
+    "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
+    "iamge2": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-2.jpg",
+    "image3": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-5.jpg",
+    "image4": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-s23-ultra/lifestyle/-1024w2/gsmarena_011.jpg",
+    "image5": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-s23-series-hands-on/for-spec/-1024w2/gsmarena_005.jpg"
+  },
+  {
+    "id": 6,
+    "phoneName": "Apple iPhone 15",
+    "releaseDate": "September 22 2023",
+    "company": "Apple",
+    "body": {
+      "dimention": "5.81 x 2.82 x 0.31 in",
+      "weight": "171 g",
+      "build": "Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame"
+    },
+    "display": {
+      "type": "Super Retina XDR OLED",
+      "size": "6.1 inches",
+      "resolution": "1179 x 2556 pixels"
+    },
+    "platform": {
+      "os": "iOS 17",
+      "chipset": "Apple A16 Bionic (4 nm)",
+      "cpu": "Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth)",
+      "gpu": "Apple GPU (5-core graphics)"
+    },
+    "memory": "128GB 6GB RAM, 256GB 6GB RAM, 512GB 6GB RAM",
+    "camera": {
+      "cam1": "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS",
+      "cam2": "12 MP, f/2.4, 13mm, 120˚ (ultrawide)",
+      "flash": "Dual-LED dual-tone flash, HDR (photo/panorama)",
+      "video": "4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), Cinematic mode (4K@30fps), stereo sound rec"
+    },
+    "selfieCamera": {
+      "cam": "12 MP, f/1.9, 23mm (wide), 1/3.6\", PDAF",
+      "video": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+    },
+    "wlan": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+    "bluetooth": "5.3, A2DP, LE",
+    "sensors": "Face ID, accelerometer, gyro, proximity, compass, barometer Ultra Wideband 2 (UWB) support Emergency SOS via satellite (SMS sending/receiving)",
+    "battery": "Li-Ion 3349 mAh, non-removable",
+    "price": "135000",
+    "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-1.jpg",
+    "iamge2": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-2.jpg",
+    "image3": "https://fdn.gsmarena.com/imgroot/reviews/23/iphone-15/lifestyle/-1024w2/gsmarena_018.jpg",
+    "image4": "https://fdn.gsmarena.com/imgroot/reviews/23/iphone-15/lifestyle/-1024w2/gsmarena_028.jpg",
+    "image5": "https://fdn.gsmarena.com/imgroot/reviews/23/iphone-15/lifestyle/-1024w2/gsmarena_019.jpg"
+  }
+]
